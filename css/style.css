@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+    background-color: rgb(245, 245, 245)
+}
+
+.cabecalho{
+    background-color: rgb(134, 6, 167);
+    padding: 20px;
+}
+
+.rodape{
+    background-color: rgb(134, 6, 167);
+}
+
