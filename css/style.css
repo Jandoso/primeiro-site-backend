@@ -1,3 +1,7 @@
+*{
+    font-family: 'Manjari', sans-serif;
+}
+
 body{
     margin: 0;
     background-color: rgb(245, 245, 245)
@@ -8,7 +12,38 @@ body{
     padding: 20px;
 }
 
-.rodape{
-    background-color: rgb(134, 6, 167);
+#cabecalho__img{
+    width:20%;
 }
 
+.rodape{
+    background-color: rgb(134, 6, 167);
+    text-align: center;
+    color: white;
+}
+
+#rodape__img{
+    width:15%;
+}
+
+#rodape__txt{
+    margin: 4px;
+}
+
+.conteudo-principal{
+    display: flex;
+    margin:60px;
+}
+
+.conteudo-principal__autora{
+    text-align: center;
+}
+
+#conteudo-principal__autora__img{
+    width: 80%;
+    border-radius: 180px;
+}
+
+.conteudo-principal__conteudo{
+    padding: 20px;
+}
